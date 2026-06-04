@@ -2,7 +2,7 @@
 Project Description
 
 This project focuses on implementing the Linear Regression algorithm from scratch without using machine learning libraries like Scikit-learn for model training. The main objective is to understand the internal working of machine learning algorithms, mathematical concepts, and optimization techniques behind predictive modeling.
-The project uses Python and basic libraries such as NumPy, Pandas, and Matplotlib to build a regression model capable of predicting continuous numerical values based on input features.
+The project uses Python and basic libraries such as NumPy, Pandas to build a regression model capable of predicting continuous numerical values based on input features.
 
 Project Objective
 
@@ -25,8 +25,6 @@ Key Concepts Covered
   Data Visualization.
 
 Learning Outcomes
-
-After completing this project, you will understand:
 
   How machine learning models are trained internally,
   The mathematics behind Linear Regression,
